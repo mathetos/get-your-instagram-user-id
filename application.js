@@ -56,10 +56,13 @@
   };
   
   _displayUserData = function(json){
-    $("#result").html("")
+	access_token = location.hash.split('=')[1];
+	
+	$("#result").html("")
                 .fadeIn(300)
-                .append("Your user ID is: " + json.data.id);
+                .append('<p class="userid">Your user ID is: <strong>' + json.data.id + '</strong></p><p class="token">Your Access Token is: <strong>' + access_token + '</strong></p>');
   };
+  
   
 })(jQuery);
 

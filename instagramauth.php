@@ -25,7 +25,7 @@
 	<p class="yourback"><strong>You're back!</strong><br /><br />
 	Great! Now just click the button below and you've got all you need.</p>
     
-	<a id="login" href="https://instagram.com/oauth/authorize/?client_id=[YOUR-CLIENT-ID]&amp;redirect_uri=http://yourwebsite.com&amp;response_type=token">Log into your Instagram account</a>
+	<a id="login" href="https://instagram.com/oauth/authorize/?client_id=3c562dd1a4fb4f1dbb4b7b46f5b7b04a&amp;redirect_uri=http://docs.mattcromwell.com/instagramauth.php&amp;response_type=token">Log into your Instagram account</a>
     
 	<a id="get-user-data" href="#">Show me my UserID and Access Token</a>
 	
