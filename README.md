@@ -1,6 +1,9 @@
 #Get Your Instagram User ID and Access Token
 This is a simple website designed to provide your users with a simple interface to retrieve their Instagram User ID and Access Tokens from. Instagram makes this info incredibly difficult to retrieve for a common user. But this info is necessary for using common Instagram Photo Feed plugins. This enables users to get that information easily.
 
+##DEMO
+You can see this form live here: [http://docs.mattcromwell.com/instagramauth.php](http://docs.mattcromwell.com/instagramauth.php)
+
 ##ANATOMY
 This web page has three main elements:
 
